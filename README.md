@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Principal Platform Engineer Team Leadership / Scalable Systems / Public Clouds
+## I'm Principal/Lead Platform/DevOps/Cloud Engineer
 Dedicated and multilingual professional showcasing 17+ years of software development achievements, including establishing and guiding pacesetting engineering teams.
 - Focused leader and collaborative team player who uses expertise in agile software development processes to produce robust and highly scalable systems.
 - Forges lasting stakeholder relationships to align the entire software development lifecycle.
