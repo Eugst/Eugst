@@ -1,74 +1,83 @@
-<h1 align="center">Hi, I'm Eugene 👋</h1>
-<h3 align="center">Principal DevOps Engineer · 17+ Years of Experience</h3>
+<h1 align="center">Eugene Storchevyi</h1>
+<h3 align="center">Director, Cloud Platform · SRE & AI/ML Infrastructure · Amsterdam</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eugst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/eugst" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-Dedicated and multilingual engineering leader with 17+ years of experience building and scaling cloud infrastructure, establishing high-performing DevOps teams, and delivering systems that exceed expectations.
-
-- Focused leader who drives **agile practices** to produce robust, highly scalable systems
-- Expert at **forging stakeholder relationships** across the full software development lifecycle
-- Out-of-the-box thinker integrating cutting-edge technologies with a constant emphasis on optimization
-- Leading by example — coaching, mentoring, and growing engineering talent
+Technical leader with **20 years** building and operating cloud platforms at scale — 15 years hands-on engineering (Senior → Lead → Principal → CTO path), 5 years leading platform and SRE teams. Recently promoted to **Director at Centric Software**. Still write production code.
 
 ---
 
-## Career Highlights
+## Impact by the Numbers
 
-- **Context Labs BV** — Established and led a pacesetting development team, driving smooth integration of tools and processes to maximize productivity
-- **Chartboost** — Crafted unique, cost-efficient infrastructure solutions for AWS, GCP, and Azure; many adopted as the gold standard for future development
-- **PressPage** — Produced best-in-class software solutions by studying information needs, conferring with users, and reviewing system utilization
-- **ticketscript** — Earned promotion to **Head of DevOps**, becoming a valued technical leader in modern technology and methodologies
+| | |
+|---|---|
+| 💰 **$7.2M annual savings** | Cut Chartboost cloud spend from $1M → $400K/month serving 50M+ DAU |
+| ☁️ **Multi-cloud migrations** | AWS↔GCP, AWS→Azure — all with zero downtime |
+| 🤖 **MLOps from scratch** | Dagster + Delta Lake platform → enabled Microsoft strategic partnership |
+| 📈 **Team scaling** | Grew teams 2→6; mentored 50+ engineers (80% promoted within 18 months) |
+| 🔒 **Compliance** | SOC2 / ISO27001 / GDPR across multiple companies |
+| 🚀 **Deployment frequency** | Monthly → 4× daily via DORA metrics & GitOps |
 
 ---
 
-## Tech Stack & Skills
+## Core Competencies
 
-**Cloud & Infrastructure**
+**Cloud & Platform**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-**Containers & Orchestration**
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Automation & CI/CD**
-
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**SRE & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+**MLOps & AI/ML Infrastructure**
+
+![Dagster](https://img.shields.io/badge/Dagster-4F46E5?style=flat-square&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white)
+
+**CI/CD & Automation**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Leadership**
+**Leadership:** Team Building · Hiring & Mentorship · Executive Communication · FinOps · Vendor Management · Cross-functional Alignment
 
-`Team Building` · `Technical Roadmaps` · `Scalability & Reliability` · `Agile Practices` · `Coaching & Mentoring` · `Hiring & Onboarding` · `Strategic Planning` · `Complex Problem-Solving`
+---
+
+## Career
+
+| Period | Role | Company |
+|---|---|---|
+| May 2026 – Present | **Director, Optimisation & Projects** | Centric Software |
+| Jan 2025 – May 2026 | Senior Engineering Manager, Cloud Operations | Centric Software |
+| Apr 2022 – Jan 2025 | Principal DevOps Engineer / Engineering Manager | Context Labs |
+| Mar 2023 – Sep 2023 | Lead DevOps Consultant | MEDrecord |
+| Jul 2018 – Apr 2022 | Senior DevOps Engineer / Tech Lead | Chartboost |
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| AWS Certified DevOps Engineer | Amazon Web Services |
-| AWS Certified Solutions Architect | Amazon Web Services |
-| AWS Certified Developer | Amazon Web Services |
-| Certified Kubernetes Administrator (CKA) | CNCF |
-| Certified Kubernetes Application Developer (CKAD) | CNCF |
+![AWS DevOps](https://img.shields.io/badge/AWS_Certified_DevOps_Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS SA](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Dev](https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eugst&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugst&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
